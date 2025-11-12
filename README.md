@@ -1,2 +1,2 @@
 # Taller2-decla
-Marco Arana, Carnet: 00037822
+Marco Gabriel Arana Renderos, Carnet: 00037822
